@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2024-12-29T19:33:29.480Z",
+    "eventType": "REGISTER",
+    "message": "User 'mfsbf' registered successfully."
+  },
+  {
+    "timestamp": "2024-12-29T19:42:34.950Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-29T19:51:19.977Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-29T19:52:28.109Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-29T19:52:51.417Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-29T19:56:55.185Z",
+    "eventType": "LOGIN",
+    "message": "Login failed. Incorrect password for 'james12'."
+  },
+  {
+    "timestamp": "2024-12-29T19:56:58.363Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-29T19:57:39.490Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12345' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-29T19:57:57.535Z",
+    "eventType": "LOGOUT",
+    "message": "User 'james12345' logged out successfully"
+  }
+]
