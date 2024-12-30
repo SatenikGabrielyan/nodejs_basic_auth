@@ -1,66 +1,22 @@
 [
   {
-    "username": "saten",
+    "username": "James",
     "password": "$2b$12$mK7vK7epGyO6SEokuCl4XOpWsWFI80i0v6BvUpWHgTBQm4QELKmCC"
   },
   {
-    "username": "satenik",
+    "username": "Bob",
     "password": "$2b$12$jKlwWgcIS8RrJgihdM.kSusQqptlbuh.eCTyoerGvj2.HoN3059NS"
   },
   {
-    "username": "james",
+    "username": "Ann",
     "password": "$2b$12$K1StRYZD88QdnoTz0tjubufmfRWnLm6k5BRZIAbRdIZT6Tof7RJri"
   },
   {
-    "username": "bob",
+    "username": "Mary",
     "password": "$2b$12$.sH9TOPRbIga.Dp4vFMs8.aU/kG7rpcjblWRMAIewCWxS4vX5RT66"
   },
   {
-    "username": "james12",
-    "password": "$2b$12$VvEJ6yBs0mKjyuiVgwFmiucgTJpi21pzjEnXIUEsKCJqrW6zKnCDC"
-  },
-  {
-    "username": "james1234",
-    "password": "$2b$12$SK7KWvlnJr5jKeZ71DZyzubXXvML0G3d1sYutg5Jj9FQi9VOu6uOS"
-  },
-  {
-    "username": "james12345",
-    "password": "$2b$12$0qc06Bz59T5xwltL47e71umDCVqbRoIniIKHcp6Dv7aMusBA38Tuy"
-  },
-  {
-    "username": "sat1234",
-    "password": "$2b$12$N765GRMQWSQVq3EBlNqfQO0z5spbKxQNLba4lJbEXr9a/vb8fv0M."
-  },
-  {
-    "username": "sat1",
-    "password": "$2b$12$h1aaLPGoU21EsLwuelFyxu3WtmRZKt1JKeJeX3OFFcdUrTYL1kySe"
-  },
-  {
-    "username": "sat11",
-    "password": "$2b$12$zLFCWL75EuZlhorRpQW6juAqtnOFd3WK5a4TepPb.etBe7Hfh/PFO"
-  },
-  {
-    "username": "sat111",
-    "password": "$2b$12$gzoAAiCGTVh8n.5LUw7XZOsnjxZcHdsZEJucGOpoInR6RGw0LtvXC"
-  },
-  {
-    "username": "sanb",
-    "password": "$2b$12$sHyMjBKQg5.3nbBybs2obOQCEP8rGqYhOZ8LnH0rhtyGCpl3UwccG"
-  },
-  {
-    "username": "test11",
-    "password": "$2b$12$F.m4ZNIfpL6VUJbMEDltRe5DV8hx.bi5uJnDwRaejT5TCXHfY1Ngm"
-  },
-  {
-    "username": "asdsaf",
-    "password": "$2b$12$iioUHcvr/L.JUEeunoE3Z.7nY.SgmnGRFz96URBhUo9eP17iWYPrO"
-  },
-  {
-    "username": "dnmvfs",
-    "password": "$2b$12$xcC/kCm1HQ9Ie6g2uinO/Os8kEEf5tzavCURpRJ8seZsbscFsFmNe"
-  },
-  {
-    "username": "mfsbf",
-    "password": "$2b$12$nF4lCHR/VnfhL8qw/ffOdeVGEeqPuwvVvdI2ipZclQKvSs9rCqXOq"
+    "username": "Jane",
+    "password": "$2b$12$apOnQIqk/Y6oA1qqbYREm.kTVy8Npu7l.W1hk0CpPzcgzADOE8phO"
   }
 ]

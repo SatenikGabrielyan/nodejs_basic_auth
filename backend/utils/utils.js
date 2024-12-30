@@ -13,6 +13,10 @@ const getUserByUserName = async(filePath, username) => {
     const found = users.find(user => user.username === username)
     return found
 }
+const getAllUsers = async (filePath) => {
+    const users =  JSON.parse( await fs.readFile(filePath, "utf-8"))
+    return users 
+}
 
 const validatePassword = (password) => {
     return password.trim().length > 5
@@ -22,4 +26,4 @@ const validateUsername = (username) => {
     return username.trim().length > 3
 }
 
-module.exports = {addUser, getUserByUserName, validatePassword, validateUsername}
+module.exports = {addUser, getUserByUserName, validatePassword, validateUsername, getAllUsers}

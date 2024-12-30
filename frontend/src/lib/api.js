@@ -33,3 +33,23 @@ export const handleLogout = async ({username}) => {
     })
     return response.data
 }
+
+export const handleData = async () => {
+    const authToken = localStorage.getItem("authToken")
+    if (!authToken) {
+        throw new Error("No auth token found")
+    }
+
+    try {
+        const response = await Axios.get("/secure", {
+            headers: {
+                "Content-Type": "application/json",
+                "Authorization": `Bearer ${authToken}`
+            }
+        })
+        return response.data
+    } catch (error) {
+        console.error("Error fetching data:", error)
+        throw error
+    }
+}

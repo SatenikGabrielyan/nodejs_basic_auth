@@ -43,5 +43,120 @@
     "timestamp": "2024-12-29T19:57:57.535Z",
     "eventType": "LOGOUT",
     "message": "User 'james12345' logged out successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:26:57.998Z",
+    "eventType": "REGISTER",
+    "message": "Username 'james12' already exists"
+  },
+  {
+    "timestamp": "2024-12-30T05:27:20.084Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:37:39.847Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:40:18.014Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:43:32.015Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:44:21.164Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:45:04.745Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:45:30.581Z",
+    "eventType": "LOGIN",
+    "message": "User 'james12' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:47:49.639Z",
+    "eventType": "REGISTER",
+    "message": "User 'Jane' registered successfully."
+  },
+  {
+    "timestamp": "2024-12-30T05:48:01.283Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:50:23.512Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:51:47.489Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:54:28.916Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T05:56:29.051Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T06:00:49.400Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T06:06:22.502Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T06:08:42.991Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T06:11:36.673Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T06:14:10.163Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T06:14:38.897Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T06:18:53.847Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T06:21:09.053Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
+  },
+  {
+    "timestamp": "2024-12-30T06:23:51.419Z",
+    "eventType": "LOGIN",
+    "message": "User 'Jane' logged in successfully"
   }
 ]

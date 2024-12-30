@@ -6,7 +6,9 @@ const cors = require("cors")
 
 const {register} = require("./auth/userController")
 const {login, logout} = require("./auth/authController")
+const {secure} = require("./auth/secureController")
 const {authenticate} = require("./middleware/ jwtMiddleware")
+
 const PORT = process.env.PORT || 3001
 
 
@@ -30,7 +32,7 @@ app.post("/login", login)
 
 app.post("/logout", logout)
 
-app.get("/secure", authenticate)
+app.get("/secure", authenticate, secure)
 
 app.listen(PORT, () => {
     console.log(`Server is running on ${PORT}`)
